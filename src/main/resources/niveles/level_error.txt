@@ -1,0 +1,10 @@
+Nivel con errores
+8 8
+++++++++
++ b  **@
++ aaa  +
++  a  b+
++     b+
++   cccc
++      +
+++++@+++

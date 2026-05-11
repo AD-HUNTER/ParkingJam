@@ -1,0 +1,10 @@
+Nivel Inicial
+8 8
+++++++++
++aabbbc+
++   * c+
++d  *  +
++d fff +
++de    +
++ e ggg+
+++++@+++
